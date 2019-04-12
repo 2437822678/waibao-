@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>你好</title>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<style type="text/css">
+
+.list {
+    margin-top: 80px;
+    width: 70%;
+    height: 800px;
+    list-style: none;
+    position: relative;
+    padding-left: 0px;
+}
+    .item{
+        width:100%;
+        height: 100%;
+        border-radius: 6px;
+        text-align: center;
+        background-image: linear-gradient(to bottom, #53BCDA, #0697da);
+        position: absolute;
+        z-index: 10px;
+    }
+
+
+    .wrap{
+        width: 100%;
+        height: 300px;
+        position: relative;
+    }
+
+    .item.active{
+        z-index: 10;
+    }
+    .pointList{
+        padding-left: 0px;
+        list-style: none;
+        position:absolute;
+        right:55%;
+        bottom:-450px;
+        z-index:100;
+    }
+
+    .point{
+        width:20px;
+        height: 20px;
+        border-radius: 50%;
+        margin-right: 40px;
+        background-color: white;
+        float:left;
+    }
+
+    .point.active{
+        background-color: red;
+    }
+</style>
+</head>
+<body>
+    <div class="wrap">
+        <ul class="list">
+            <li class="item active">0,1,2</li>
+            <li class="item">3,4,5</li>
+            <li class="item">6,7,8</li>
+        </ul>
+        <ul class="pointList">
+            <li class="point active" date-index="0"></li>
+            <li class="point" date-index="1"></li>
+            <li class="point" date-index="2"></li>
+        </ul>
+
+    </div>
+<script type="text/javascript">
+    var items=document.getElementsByClassName('item');
+    var index=0;
+    var points=document.getElementsByClassName('point');
+    var time=0;
+    var clear=function () {
+        for(var i=0;i<items.length;i++){
+            items[i].className="item";
+        }
+        for(var i=0;i<items.length;i++){
+            points[i].className="point";
+        }
+
+    }
+
+    var goIndex=function () {
+        clear();
+        items[index].className="item active";
+        points[index].className="point active"
+
+    }
+
+    var goNext=function () {
+        if(index<2){
+         index++;
+        }
+        else{
+            index=0;
+        }
+
+        goIndex();
+    }
+
+    for(var i=0;i<points.length;i++){
+        points[i].addEventListener('click',function() {
+            var pointIndex=this.getAttribute('date-index');
+            index=pointIndex;
+            goIndex();
+            time=0;
+        })
+    }
+
+    setInterval(function () {
+        if(time==20){
+            goNext();
+            time=0;
+        }
+        time++;
+
+    },100)
+</script>
+
+</body>
+</html>
+

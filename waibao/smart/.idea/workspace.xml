@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c348671-4d37-4b7a-80a9-4e273ee76fc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../A170E8636E798CFE67A59A1A74F34FDD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chrome.exe - 快捷方式.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../chrome.exe - 快捷方式.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../npp.7.5.8.Installer.x64 - 快捷方式.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/program-note/github.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/program-note/linux相关笔记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/rails/rails命令.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/创新实验室培训选拔题目/未命名1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/创新实验室培训选拔题目/未命名2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/创新实验室培训选拔题目/未命名3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/创新实验室培训选拔题目/未命名3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/20170533070733592a7735031f6[1].pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/colorschememapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/demo.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/filelist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/header.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image002.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image005.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image006.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image007.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image008.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image011.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image016.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image017.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image018.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image019.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image020.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image021.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image022.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image025.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image026.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image027.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image032.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image037.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image040.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image041.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image042.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image043.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image045.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image048.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image050.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image062.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image068.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image083.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image105.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image106.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image147.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image157.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image159.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image161.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image162.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image164.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image165.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image168.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image169.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/image171.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/老翔给我做的sinatra中文翻译文档/themedata.thmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/abc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/登录注册/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/登录注册/img/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/登录注册/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/登录注册/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-fl-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-item-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-item-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-item-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-item-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-ping-bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-ping-bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-ping-bg3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/icon-ping-bg4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/pine-ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/images/pine-ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../waibao/首页/首页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B0/demo.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B0/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/.sass-cache/ac0b05595bf66a6db8084f1751072d7dab0f2275/styles.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/READER.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/development.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/info.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/main.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/public/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/public/images/sinatra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/about.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/contact.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/edit_info.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/home.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/info_form.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/infos.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/layout.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/nav.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/new_info.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/not_found.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/search_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/show_info.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B1/views/submit_form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/READER.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/WEB_messages.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/WEB_users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/main.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/models/Message-operating.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/models/User-operating.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/service/DatabaseLink.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-36-28屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-36-42屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-36-59屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-37-06屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-37-19屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-37-27屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-37-42屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-37-50屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-38-28屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-38-38屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-38-58屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-39-31屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-39-39屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-39-55屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-40-05屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-41-54屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-42-09屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-42-19屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-42-43屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-44-16屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-44-48屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-45-04屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-45-26屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-45-36屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-45-46屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-45-53屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-46-01屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-46-10屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-47-07屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-47-18屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-47-41屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-47-48屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-48-02屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-48-09屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-48-16屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/test-image/2018-08-07 14-48-48屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/infos.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/layout.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/login.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/login_error.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/new_info.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/new_password.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/new_search_reset.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/reset_success.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/show_info.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/show_personal.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/show_search.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/show_searchs.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/signup.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/start.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B2/views/success.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/images/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/comments.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/feedbacks.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/managers.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/posts.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/sessions.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/sessions1.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/javascripts/users.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/feedbacks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/managers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/posts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/scaffolds.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/sessions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/sessions1.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/assets/stylesheets/users.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/admin/base_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/admin/comments_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/admin/posts_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/admin/sessions_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/application_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/comments_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/feedbacks_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/managers_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/posts_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/sessions_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/controllers/users_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/application_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/comments_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/feedbacks_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/managers_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/posts_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/sessions1_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/sessions_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/helpers/users_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/comment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/feedback.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/manager.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/post.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/models/user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/admins/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/_post.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/index.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/postart.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/postculture.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/postscience.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/posttag.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/recent.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/shouye.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/posts/show.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/sessions/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/admin/sessions/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/layouts/admin.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/layouts/application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/managers/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/managers/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/_post.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/checking.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/index.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/postart.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/postculture.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/postscience.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/recent.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/recent2.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/show.json.jbuilder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/posts/tag.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/sessions/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/sessions/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/users/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/app/views/users/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/bin/bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/bin/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/bin/rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/bin/setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/application.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/boot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/database.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/environment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/environments/development.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/environments/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/environments/test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/assets.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/backtrace_silencers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/cookies_serializer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/filter_parameter_logging.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/inflections.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/mime_types.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/session_store.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/initializers/wrap_parameters.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/config/secrets.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180816152424_create_posts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180816164008_add_tags_to_posts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180818045041_create_comments.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180818080445_create_users.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180818100232_add_password_digest_to_users.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180820030613_create_feedbacks.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180820074438_add_user_id_to_posts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180824053642_create_managers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180824054022_add_password_digest_to_managers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180824124253_add_check_to_posts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180827081304_add_category_to_posts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180827181803_add_verify_to_posts.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/migrate/20180829062108_add_verify_to_comments.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/schema.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/lib/assets/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/lib/tasks/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/log/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/public/422.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/public/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/comments_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/feedbacks_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/managers_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/posts_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/sessions1_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/sessions_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/controllers/users_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/fixtures/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/fixtures/comments.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/fixtures/feedbacks.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/fixtures/managers.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/fixtures/posts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/fixtures/users.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/helpers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/integration/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/models/comment_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/models/feedback_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/models/manager_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/models/post_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/models/user_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/vendor/assets/javascripts/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/vendor/assets/stylesheets/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-18-33屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-19-08屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-19-30屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-19-58屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-20-17屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-20-41屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-21-05屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-21-16屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-21-35屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-22-39屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-23-03屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-23-20屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-26-28屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_tasks-master/B3_blog/测试截图/2018-08-29 16-28-32屏幕截图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/linux上传github.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/linux常规命令行的使用.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/sinatra/Sinatra 编程-好文章.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/sinatra/sinatra制作简易登录页面.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/sinatra/培训链接.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/数据库/active_record.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/数据库/mysql增加列修改列名列属性以及删除列.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/数据库/数据库关系链接.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/linux/本机连接linux网络问题.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../收藏链接/rails删除表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../暑假个人实践总结.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../暑假作业-彭新宇.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../酷狗音乐.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../酷狗音乐.lnk" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FAQ_master$FAQ.coverage" NAME="FAQ Coverage Results" MODIFIED="1552218035729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FAQ_master$ni.coverage" NAME="ni Coverage Results" MODIFIED="1552218025196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2109128388">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2225">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FAQ.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faqrobot.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FAQ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="113" selection-start-line="113" selection-end-line="113" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ni.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="460" />
+    <option name="y" value="130" />
+    <option name="width" value="1000" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FAQ-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQ-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.FAQ">
+    <configuration name="FAQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FAQ-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FAQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ni" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FAQ-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ni.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FAQ-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.utils" />
+      <item itemvalue="Python.FAQ" />
+      <item itemvalue="Python.ni" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FAQ" />
+        <item itemvalue="Python.ni" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c348671-4d37-4b7a-80a9-4e273ee76fc3" name="Default Changelist" comment="" />
+      <created>1552217467476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552217467476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="235" y="66" width="800" height="704" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12668464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09773371" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ni.py" />
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAQ.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faqrobot.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

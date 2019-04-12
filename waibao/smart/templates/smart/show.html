@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>显示结果</title>
+</head>
+<body>
+<form action="{% url 'smart:show1'%}" method="post">
+    {% csrf_token %}
+    <input type="text" name="title">
+    <input type="submit" value="submit">
+</form>
+</body>
+</html>

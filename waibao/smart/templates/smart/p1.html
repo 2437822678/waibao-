@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<link href="/static/css/style.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+ <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<title>对话</title>
+
+<style type="text/css">
+*{margin:0; padding:0}
+.top-head
+{
+position:fixed; width:100%;height:auto; background:#0697da  ; overflow-y:auto;min-height: 60px;line-height: 60px; text-align:center;
+}
+
+.div-mid{
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+.whotalk{
+	width:20%;
+	height:30px;
+	float:left;
+	outline:none;
+
+}
+.talk_word{
+	width:60%;
+	height:30px;
+	padding:0px;
+	float:left;
+
+	outline:none;
+	text-indent:10px;
+}
+.talk_sub{
+	width:20%;
+	height:30px;
+	float:left;
+
+}
+.talk
+{
+margin-top:20px;
+margin-bottom:50px;
+}
+.atalk{
+   margin:10px;
+}
+.atalk span{
+	display:inline-block;
+	background:#C5CACC  ;
+	border-radius:10px;
+	color:#06161E  ;
+	padding:5px 10px;
+	max-width: 13rem;
+}
+.btalk{
+	margin:10px;
+	text-align:right;
+}
+.btalk span{
+	display:inline-block;
+	background:#70D7F9;
+	border-radius:10px;
+	color:#06161E  ;
+	padding:5px 10px;
+	max-width: 13rem;
+}
+.img
+{
+   margin-top:80px;
+   background-color:#53BCDA;
+   width:70%;
+   height:320px;
+   margin-left:15%;
+   margin-right:15%;
+   border-radius:0px;
+   text-align:center;
+   line-height: 40px;
+
+}
+
+.center{
+text-align:center
+}
+
+.return
+{
+    background-color: #0697da;
+	width:40px;
+	height:25px;
+	text-align:center;
+	color:white ;
+	border:0px;
+
+}
+
+.feedback
+{
+    background-color: #0697da;
+	width:40px;
+	height:25px;
+	text-align:center;
+	color:white ;
+	border:0px;
+}
+
+</style>
+</head>
+<body>
+<section class="aui-flexView">
+    <div class="top-head"><font color="white">智能客服</font>
+		<!--返回按钮-->
+			<button type="button" style=" float:left" class="return"  aria-label="Left Align" onClick="javascript:add()">
+			    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			</button>
+		<!--反馈按钮-->
+			<button type="button" style=" float:right" class="feedback" data-toggle="modal" data-target="#myModal" aria-label="Left Align">
+			    <span class="glyphicon glyphicon-option-horizontal" aria-hidden="true"></span>
+			</button>
+    </div>
+<!--弹出框-->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" height：200px>
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"
+							aria-hidden="true">×
+					</button>
+					<h4 class="modal-title" id="myModalLabel">
+						有什么问题可以向我们反馈哦！
+					</h4>
+				</div>
+				<div class="row">
+				<div class="col-lg-6">
+					<div class="input-group">
+					  <input type="text" class="form-control" placeholder="说点什么吧">
+					  <span class="input-group-btn">
+						<button class="btn btn-primary" type="button">确认</button>
+					  </span>
+					</div><!-- /input-group -->
+				  </div><!-- /.col-lg-6 -->
+
+				</div><!-- /.row -->
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+    </div>
+<!-- 弹出框 -->
+
+
+ <footer class="aui-footer aui-footer-fixed">
+	<!-- <div class="talk_input"> -->
+	<select class="whotalk" id="who">
+		<option value="0">A说：</option>
+		<option value="1">B说：</option>
+	</select>
+    <form action="{% url 'smart:dialogue'%}" method="post">
+        {% csrf_token %}
+        <input type="text" name="username"/>
+        <input type="submit" value="发送"/>
+    </form>
+
+        <!-- </div> -->
+        <!-- <input type="text" id="uname" style="width:300px; height:25px;">
+        <button onclick="showUname()">发送</button> -->
+</footer>
+<div class="img">
+    <div id="myCarousel" class="carousel slide">
+		<!-- 轮播（Carousel）指标 -->
+		<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+		</ol>
+		<!-- 轮播（Carousel）项目 -->
+		<div class="carousel-inner">
+			<div class="item active">
+				<div calss="center" >
+					<br>
+					<font size="2" color="white" weight="800"><b>为你推荐</b></font><br>
+					<a href="#" font color="white" size="5"><font color="white" size="2">实时股票信息</font></a><br>
+					<a href="#"><font color="white" size="2">如何开户</font></a><br>
+					<a href="#"><font color="white" size="2">逆回购</font></a><br>
+					<a href="#"><font color="white" size="2">开户具体时间</font></a><br><br><br>
+					<!-- <a href="#"><font color="white" size="2">教你如何理财</font></a> -->
+	            </div>
+		    </div>
+		    <div class="item">
+			    <div calss="center" >
+					<br>
+					<font size="2" color="white" weight="800"><b>为你推荐</b></font><br>
+					<a href="#" font color="white" size="5"><font color="white" size="2">实时股票信息</font></a><br>
+					<a href="#"><font color="white" size="2">如何开户</font></a><br>
+					<a href="#"><font color="white" size="2">逆回购</font></a><br>
+					<a href="#"><font color="white" size="2">开户具体时间</font></a><br><br><br>
+					<!-- <a href="#"><font color="white" size="2">教你如何理财</font></a> -->
+			    </div>
+		    </div>
+			<div class="item">
+				<div calss="center" >
+					<br>
+					<font size="2" color="white" weight="800"><b>为你推荐</b></font><br>
+					<a href="#" font color="white" size="5"><font color="white" size="2">实时股票信息</font></a><br>
+					<a href="#"><font color="white" size="2">如何开户</font></a><br>
+					<a href="#"><font color="white" size="2">逆回购</font></a><br>
+					<a href="#"><font color="white" size="2">开户具体时间</font></a><br><br><br>
+					<!-- <a href="#"><font color="white" size="2">教你如何理财</font></a> -->
+				</div>
+			</div>
+		</div>
+	<!-- 轮播（Carousel）导航 -->
+	<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+    </div>
+</div>
+
+<div class="talk">
+	<div class="div-mid" id="words">
+	    <div class="talk">
+		     <div class="btalk"><span id="bsay"><h6>B说说：吃饭了吗？</h6></span>
+			 </div>
+		     <div class="atalk"><span id="asay"><h6>A说：还没呢，你呢？</h6></span>
+			 </div>
+	   </div>
+	</div>
+</div>
+
+<!-- <div class="talk"> -->
+<script>
+
+window.onload = function(){
+            var Words = document.getElementById("words");
+            var Who = document.getElementById("who");
+            var TalkWords = document.getElementById("talkwords");
+            var TalkSub = document.getElementById("talksub");
+
+
+            TalkSub.onclick = function(){
+	            //定义空字符串
+                var str = "";
+                var str1 = "";
+                if(TalkWords.value == ""){
+	                 // 消息为空时弹窗
+                    alert("消息不能为空");
+                    return;
+                }
+
+                //如果Who.value为0n那么是 A说
+                str = '<div class="atalk"><span><h6>q</h6></span></div>';
+                document.getElementById("talkwords").value = "";
+                str1 = '<div class="btalk"><span><h6>q</h6></span></div>';
+                document.getElementById("talkwords").value = "";
+
+                Words.innerHTML = Words.innerHTML + str + str1;
+<!-- 				Words.scrollTop = Words.scrollHeight; -->
+            }
+        }
+
+</script>
+</section>
+</body>
+</html>
+
+
+
